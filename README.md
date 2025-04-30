@@ -1,2 +1,2 @@
 # TravelExplorer
-Server-rendered travel website with user accounts, destination browsing, search, and personalized want-to-go lists.
+TravelExplorer is a Node.js/Express web application that functions as a simple travel website. Users can register and log in (credentials stored in MongoDB), then browse destinations organized into categories (Beaches, Mountains, Cities, etc.). Each destination page includes a description, an embedded video, and an “Add to Want-to-Go List” button that saves the destination to the user’s personal list (duplicates prevented). A persistent search bar lets users look up destinations by name with instant feedback if none match. User sessions are managed with express-session so that each visitor’s data remains private.
