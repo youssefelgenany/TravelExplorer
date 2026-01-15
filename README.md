@@ -296,7 +296,7 @@ To contribute:
 
 ## Credits
 
-The following resources were used in the development of this project:
+This project was developed as a part of the GUC introduction to communication networks course. The following resources were used in the development of this project:
 
 - **Express.js Documentation**: [expressjs.com](https://expressjs.com/) - For Express.js framework reference and best practices
 - **MongoDB Node.js Driver Documentation**: [mongodb.github.io/node-mongodb-native](https://mongodb.github.io/node-mongodb-native/) - For MongoDB integration guidance
